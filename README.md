@@ -1,7 +1,4 @@
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs1.PNG)
-
-
-<p  align=center><b> Greetings from Team SEEKERS, </b></p>
+<p  align=center><b> Greetings from Team Cypher, </b></p>
 <p align=center> We are glad to present our idea </p>
 
 <p align=center> <b><u> " EduLabs " </b></u></p>
@@ -44,9 +41,5 @@
 
 ##   Our Team
 ##### 1. Deepak Chaturvedi
-##### 2. Sankalp Jaitly
-
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs2.PNG)
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs3.PNG)
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs4.PNG)
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs5.PNG)
+##### 2. Kartik Gupta
+##### 3. Kushagra Goel
